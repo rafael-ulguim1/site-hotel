@@ -1,7 +1,7 @@
 # Sistema de reserva
 
 ## Sobre o projeto
-Plataforma de reserva de hoteis, tendo como foco novas funcionalidades, como desenvolvimento de formulários controlados para reserva e api adaptada.
+Plataforma de reserva com foco em formulários controlados, manipulação de estados via Hooks e consumo de dados dinâmicos de API.
 
 ## Tecnologias utilizadas
 * **Javascript**
