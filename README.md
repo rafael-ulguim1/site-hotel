@@ -1,9 +1,9 @@
-# 🍕 Sistema de reserva
+# Sistema de reserva
 
-## 💻 Sobre o projeto
+## Sobre o projeto
 Plataforma de reserva de hoteis, tendo como foco novas funcionalidades, como desenvolvimento de formulários controlados para reserva e api adaptada.
 
-##  Tecnologias utilizadas
+## Tecnologias utilizadas
 * **Javascript**
 * **React.js**
 * **Tailwind CSS**
@@ -16,14 +16,14 @@ Plataforma de reserva de hoteis, tendo como foco novas funcionalidades, como des
 * **Controlled Components:** Value e onChange vinculados ao useState para mês e dia.
 * **Steppers:** Seletores para quantidade de hóspedes.
 
-## 📸 Demonstração
+## Demonstração
 <img width="1845" height="932" alt="image" src="https://github.com/user-attachments/assets/76c5b09f-4bca-466a-a3b3-8c715e701225" />
 <img width="1835" height="851" alt="image" src="https://github.com/user-attachments/assets/d6d08300-6477-4d77-bfab-025827a3edc1" />
 <img width="1825" height="391" alt="image" src="https://github.com/user-attachments/assets/ac7c632a-0c14-4c51-9557-d5f300a3a9a8" />
 
 
 
-## 🔧 Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 ```bash
 # Clone o repositório
