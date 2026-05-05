@@ -1,16 +1,39 @@
-# React + Vite
+# 🍕 Sistema de reserva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 💻 Sobre o projeto
+Plataforma de reserva de hoteis, tendo como foco novas funcionalidades, como desenvolvimento de formulários controlados para reserva e api adaptada.
 
-Currently, two official plugins are available:
+##  Tecnologias utilizadas
+* **Javascript**
+* **React.js**
+* **Tailwind CSS**
+* **Axios (Consumo de API REST)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+  ## Funcionalidades
+* **Renderização Dinâmica:** Uso de `.map()` para listar produtos de uma API.
+* **Gerenciamento de Estado:** Hooks como `useState` e `useEffect` para controlar o carrinho.
+* **Componentização:** Criação de componentes reutilizáveis para garantir um código limpo.
+* **Controlled Components:** Value e onChange vinculados ao useState para mês e dia.
+* **Steppers:** Seletores para quantidade de hóspedes.
 
-## React Compiler
+## 📸 Demonstração
+<img width="1845" height="932" alt="image" src="https://github.com/user-attachments/assets/76c5b09f-4bca-466a-a3b3-8c715e701225" />
+<img width="1835" height="851" alt="image" src="https://github.com/user-attachments/assets/d6d08300-6477-4d77-bfab-025827a3edc1" />
+<img width="1825" height="391" alt="image" src="https://github.com/user-attachments/assets/ac7c632a-0c14-4c51-9557-d5f300a3a9a8" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Como rodar o projeto localmente
+
+```bash
+# Clone o repositório
+git clone [https://github.com/rafael-ulguim1/site-hotel](https://github.com/rafael-ulguim1/site-hotel)
+
+# Entre na pasta
+cd nome-do-repo
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
